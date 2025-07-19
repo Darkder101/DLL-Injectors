@@ -1,5 +1,0 @@
-command to convert cpp file into dll. 
-g++ -shared -o MessageBox.dll MessageBox.cpp -Wl,--subsystem,windows
-
-command to convert cpp file into .exe 
-g++ -o Local_Dll_injector.exe Local_Dll_injector.cpp
